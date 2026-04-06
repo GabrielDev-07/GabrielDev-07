@@ -1,22 +1,16 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gabriel%20Henrique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Java%20%26%20Go&descSize=18&descAlignY=60&descAlign=50"/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=43C6DB&center=true&vCenter=true&width=520&lines=☕+Java+Developer+in+Training;⚙️+Exploring+Go+%26+Backend+Systems;🧠+Learning+the+logic+behind+the+code;💼+Building+FinControl+from+scratch;📈+Leveling+up+every+single+day" alt="Typing SVG"/>
-
-  <br/>
-
   [![github repos](https://img.shields.io/static/v1?message=Repos&logo=github&label=&color=2c5364&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/GabrielDev-07?tab=repositories)
+  &nbsp;
   ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=GabrielDev-07)
 
 </div>
 
 ---
 
-# Hey, I'm Gabriel Henrique! 👋
+# 👋 Olá, eu sou o Gabriel Henrique!
 
-**Backend Developer in Training · Java & OOP · Go · Building Real Systems**  
-Estudante de programação apaixonado por back-end 🇧🇷
+💻 Desenvolvedor em formação com foco em **Java** e desenvolvimento back-end · 🇧🇷
 
 ---
 
@@ -73,12 +67,6 @@ Estudante de programação apaixonado por back-end 🇧🇷
 
 ---
 
-### 🔥 Contribution Graph
-
-![pacman contribution graph](https://raw.githubusercontent.com/GabrielDev-07/GabrielDev-07/output/pacman-contribution-graph.svg)
-
----
-
 ### 🎯 Objetivo
 
 Me tornar um desenvolvedor **Java profissional**, criando sistemas bem estruturados e escaláveis que resolvem problemas reais.
@@ -87,8 +75,4 @@ Me tornar um desenvolvedor **Java profissional**, criando sistemas bem estrutura
 
 <div align="center">
   <i>⭐ Em constante evolução...</i>
-  <br/><br/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </div>
-
----
